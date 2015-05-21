@@ -1,0 +1,60 @@
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.pdb
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\ResolveAssemblyReference.cache
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmSendRequest.resources
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.Properties.Resources.resources
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.GenerateResource.Cache
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.exe
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.pdb
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe.config
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmJobList.resources
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmLogin.resources
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\Interop.MSTSCLib.dll
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\AxInterop.MSTSCLib.dll
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\Interop.MSTSCLib.dll
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\AxInterop.MSTSCLib.dll
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.ResolveComReference.cache
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmRemoteDesktop.resources
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmCustomerMaster.resources
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmChangePassword.resources
+D:\QUAD\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmEmployeeMaster.resources
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe.config
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\Interop.MSTSCLib.dll
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\AxInterop.MSTSCLib.dll
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.ResolveComReference.cache
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.exe
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.pdb
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\ResolveAssemblyReference.cache
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmChangePassword.resources
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmCustomerMaster.resources
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmEmployeeMaster.resources
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmJobList.resources
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmLogin.resources
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmRemoteDesktop.resources
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmSendRequest.resources
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.Properties.Resources.resources
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.GenerateResource.Cache
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.pdb
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\Interop.MSTSCLib.dll
+D:\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\AxInterop.MSTSCLib.dll
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe.config
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\Interop.MSTSCLib.dll
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\AxInterop.MSTSCLib.dll
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.ResolveComReference.cache
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.exe
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.pdb
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.pdb
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\Interop.MSTSCLib.dll
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\AxInterop.MSTSCLib.dll
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmChangePassword.resources
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmCustomerMaster.resources
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmEmployeeMaster.resources
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmJobList.resources
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmLogin.resources
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmRemoteDesktop.resources
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.frmSendRequest.resources
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.Properties.Resources.resources
+D:\My Projects\RemoteDesktop\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.GenerateResource.Cache

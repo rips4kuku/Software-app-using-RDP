@@ -1,0 +1,18 @@
+D:\QUAD\RemoteDesktop\RemoteWebService\RemoteWebService\obj\Debug\ResolveAssemblyReference.cache
+D:\QUAD\RemoteDesktop\RemoteWebService\RemoteWebService\bin\RemoteWebService.dll
+D:\QUAD\RemoteDesktop\RemoteWebService\RemoteWebService\bin\RemoteWebService.pdb
+D:\QUAD\RemoteDesktop\RemoteWebService\RemoteWebService\bin\DBManager.dll
+D:\QUAD\RemoteDesktop\RemoteWebService\RemoteWebService\obj\Debug\RemoteWebService.dll
+D:\QUAD\RemoteDesktop\RemoteWebService\RemoteWebService\obj\Debug\RemoteWebService.pdb
+D:\RemoteDesktop\RemoteWebService\RemoteWebService\bin\RemoteWebService.dll
+D:\RemoteDesktop\RemoteWebService\RemoteWebService\bin\RemoteWebService.pdb
+D:\RemoteDesktop\RemoteWebService\RemoteWebService\bin\DBManager.dll
+D:\RemoteDesktop\RemoteWebService\RemoteWebService\obj\Debug\ResolveAssemblyReference.cache
+D:\RemoteDesktop\RemoteWebService\RemoteWebService\obj\Debug\RemoteWebService.dll
+D:\RemoteDesktop\RemoteWebService\RemoteWebService\obj\Debug\RemoteWebService.pdb
+D:\My Projects\RemoteDesktop\RemoteWebService\RemoteWebService\bin\RemoteWebService.dll
+D:\My Projects\RemoteDesktop\RemoteWebService\RemoteWebService\bin\RemoteWebService.pdb
+D:\My Projects\RemoteDesktop\RemoteWebService\RemoteWebService\bin\DBManager.dll
+D:\My Projects\RemoteDesktop\RemoteWebService\RemoteWebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\RemoteDesktop\RemoteWebService\RemoteWebService\obj\Debug\RemoteWebService.dll
+D:\My Projects\RemoteDesktop\RemoteWebService\RemoteWebService\obj\Debug\RemoteWebService.pdb
